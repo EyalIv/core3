@@ -4,7 +4,7 @@
 ---
 
 ## 📋 Executive Summary
-
+Eyal99
 **Project Name:** Buddhist Oracle  
 **Competition Track:** Freestyle (unique/experimental)  
 **Tagline:** *"Wisdom through Silence - Distill any topic to its essence"*  
