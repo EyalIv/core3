@@ -1,8 +1,8 @@
 # Product Requirements Document (PRD)
-# Buddhist Oracle - First Principles Learning Agent
-
+# agents-llm-silence
+ 
 ---
-6060
+
 ## 📋 Executive Summary
 **Project Name:** Buddhist Oracle  
 **Competition Track:** Freestyle (unique/experimental)  
