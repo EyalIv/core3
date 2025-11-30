@@ -25,6 +25,7 @@ Buddhist Oracle delivers:
 - **3 First Principles** — The fundamental concepts underlying any topic
 - **Curated Resources** — Authoritative links for each principle
 - **Visual Learning** — A relevant YouTube video
+- **Markdown Output** — Results saved as readable `.md` files in `outputs/`
 - **Philosophical Closure** — Ends definitively, no follow-up prompts
 - **Reflective Questions** — Two philosophers challenge you to think deeper
 
@@ -165,6 +166,8 @@ Ludwig Wittgenstein asks:
  gain its meaning—and who taught you to play?"
 
 ══════════════════════════════════════════════════════
+
+📄 Results saved to: outputs/2025-11-30_14-30-00_blockchain.md
 ```
 
 ---
@@ -175,6 +178,7 @@ Ludwig Wittgenstein asks:
 buddhist-oracle/
 ├── agent.py         # 7 agent definitions
 ├── main.py          # Runner, CLI, async execution
+├── outputs/         # Saved markdown results (auto-created)
 ├── requirements.txt # Dependencies
 ├── PRD.md           # Product Requirements Document
 ├── README.md        # This file
