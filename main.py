@@ -66,12 +66,12 @@ async def run_agent(agent, user_query, session_id):
 
 async def main():
     # Get user input
-    print("\n" + "="*50)
-    print(" BUDDHIST ORACLE - FIRST PRINCIPLES AGENT")
-    print("="*50)
+    print("\n" + "="*80)
+    print(" Core3 - Multi-agent AI that know the important of silence for reflection")
+    print("="*80)
     user_query = input("\nWhat topic do you seek to understand? > ")
     
-    print("\n[The Oracle is contemplating...]\n")
+    print("\n[We are working on it...]\n")
 
     # 1. Run the Oracle Sequence
     oracle_sequence = SequentialAgent(
