@@ -92,8 +92,8 @@ Session Complete (no follow-ups)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/EyalIv/agents-llm-silence.git
-   cd agents-llm-silence
+   git clone https://github.com/EyalIv/core3.git
+   cd core3
    ```
 
 2. **Create virtual environment**
@@ -126,31 +126,31 @@ python main.py
 ## 📖 Usage Example
 
 ```
-══════════════════════════════════════════════════════
- BUDDHIST ORACLE - FIRST PRINCIPLES AGENT
-══════════════════════════════════════════════════════
+================================================================================
+ Core3 - Multi-agent AI that know the important of silence for reflection
+================================================================================
 
 What topic do you seek to understand? > How does blockchain work?
 
-[The Oracle is contemplating...]
+[We are working on it...]
 
 1. **Decentralization** - No single authority controls the network.
-   → https://ethereum.org/decentralization
+   → [Search Resources](https://www.google.com/search?q=blockchain+decentralization+guide)
 
 2. **Cryptographic Hashing** - Data integrity through one-way functions.
-   → https://www.investopedia.com/crypto-hash
+   → [Search Resources](https://www.google.com/search?q=cryptographic+hashing+blockchain+tutorial)
 
 3. **Consensus Mechanisms** - Network agrees on valid transactions.
-   → https://consensys.net/consensus-explained
+   → [Search Resources](https://www.google.com/search?q=blockchain+consensus+mechanisms+explained)
 
-**Visual Guide:** https://youtube.com/watch?v=blockchain-explained
+**Visual Guide:** https://www.youtube.com/results?search_query=how+blockchain+works+tutorial+for+beginners
 
 *These are the answers.*
 In silence, understanding deepens.
 
                     * Silence *
 
-──────────────── The Masters Speak ────────────────
+-------------------- The Masters Speak --------------------
 
 Monk Dōgen asks:
 "When you speak of 'trust' in a trustless system, 
@@ -160,7 +160,7 @@ Ludwig Wittgenstein asks:
 "In what language game does 'decentralized' 
  gain its meaning—and who taught you to play?"
 
-══════════════════════════════════════════════════════
+==================================================
 ```
 
 ---
