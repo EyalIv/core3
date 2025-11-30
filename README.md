@@ -2,6 +2,10 @@
 
 **Understand any topic through its 3 most important principles**
 
+<p align="center">
+  <img src="assets/Core3.jpg" alt="Core3" width="600">
+</p>
+
 A multi-agent AI system that distills complex topics into exactly 3 first principles with curated resources. The application allows you to study a topic, then uses silence to let ideas assimilate. At the end, Dōgen and Wittgenstein prompt a moment of introspection on the topic.
 
 ---
@@ -92,8 +96,8 @@ Session Complete (no follow-ups)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/EyalIv/core3.git
-   cd core3
+   git clone https://github.com/EyalIv/agents-llm-silence.git
+   cd agents-llm-silence
    ```
 
 2. **Create virtual environment**
@@ -126,31 +130,31 @@ python main.py
 ## 📖 Usage Example
 
 ```
-================================================================================
- Core3 - Multi-agent AI that know the important of silence for reflection
-================================================================================
+══════════════════════════════════════════════════════
+ BUDDHIST ORACLE - FIRST PRINCIPLES AGENT
+══════════════════════════════════════════════════════
 
 What topic do you seek to understand? > How does blockchain work?
 
-[We are working on it...]
+[The Oracle is contemplating...]
 
 1. **Decentralization** - No single authority controls the network.
-   → [Search Resources](https://www.google.com/search?q=blockchain+decentralization+guide)
+   → https://ethereum.org/decentralization
 
 2. **Cryptographic Hashing** - Data integrity through one-way functions.
-   → [Search Resources](https://www.google.com/search?q=cryptographic+hashing+blockchain+tutorial)
+   → https://www.investopedia.com/crypto-hash
 
 3. **Consensus Mechanisms** - Network agrees on valid transactions.
-   → [Search Resources](https://www.google.com/search?q=blockchain+consensus+mechanisms+explained)
+   → https://consensys.net/consensus-explained
 
-**Visual Guide:** https://www.youtube.com/results?search_query=how+blockchain+works+tutorial+for+beginners
+**Visual Guide:** https://youtube.com/watch?v=blockchain-explained
 
 *These are the answers.*
 In silence, understanding deepens.
 
                     * Silence *
 
--------------------- The Masters Speak --------------------
+──────────────── The Masters Speak ────────────────
 
 Monk Dōgen asks:
 "When you speak of 'trust' in a trustless system, 
@@ -160,7 +164,7 @@ Ludwig Wittgenstein asks:
 "In what language game does 'decentralized' 
  gain its meaning—and who taught you to play?"
 
-==================================================
+══════════════════════════════════════════════════════
 ```
 
 ---
